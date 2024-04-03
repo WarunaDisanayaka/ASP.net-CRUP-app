@@ -1,0 +1,42 @@
+C:\Users\dilum\source\repos\CRUD App\CRUD App\obj\Debug\net6.0\CRUD App.csproj.AssemblyReference.cache
+C:\Users\dilum\source\repos\CRUD App\CRUD App\obj\Debug\net6.0\CRUD App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dilum\source\repos\CRUD App\CRUD App\obj\Debug\net6.0\CRUD App.AssemblyInfoInputs.cache
+C:\Users\dilum\source\repos\CRUD App\CRUD App\obj\Debug\net6.0\CRUD App.AssemblyInfo.cs
+C:\Users\dilum\source\repos\CRUD App\CRUD App\obj\Debug\net6.0\CRUD App.csproj.CoreCompileInputs.cache
+C:\Users\dilum\source\repos\CRUD App\CRUD App\obj\Debug\net6.0\CRUD App.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dilum\source\repos\CRUD App\CRUD App\obj\Debug\net6.0\CRUD App.RazorAssemblyInfo.cache
+C:\Users\dilum\source\repos\CRUD App\CRUD App\obj\Debug\net6.0\CRUD App.RazorAssemblyInfo.cs
+C:\Users\dilum\source\repos\CRUD App\CRUD App\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\dilum\source\repos\CRUD App\CRUD App\bin\Debug\net6.0\appsettings.json
+C:\Users\dilum\source\repos\CRUD App\CRUD App\bin\Debug\net6.0\CRUD App.staticwebassets.runtime.json
+C:\Users\dilum\source\repos\CRUD App\CRUD App\bin\Debug\net6.0\CRUD App.exe
+C:\Users\dilum\source\repos\CRUD App\CRUD App\bin\Debug\net6.0\CRUD App.deps.json
+C:\Users\dilum\source\repos\CRUD App\CRUD App\bin\Debug\net6.0\CRUD App.runtimeconfig.json
+C:\Users\dilum\source\repos\CRUD App\CRUD App\bin\Debug\net6.0\CRUD App.dll
+C:\Users\dilum\source\repos\CRUD App\CRUD App\bin\Debug\net6.0\CRUD App.pdb
+C:\Users\dilum\source\repos\CRUD App\CRUD App\bin\Debug\net6.0\Humanizer.dll
+C:\Users\dilum\source\repos\CRUD App\CRUD App\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\dilum\source\repos\CRUD App\CRUD App\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\dilum\source\repos\CRUD App\CRUD App\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\dilum\source\repos\CRUD App\CRUD App\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\dilum\source\repos\CRUD App\CRUD App\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\dilum\source\repos\CRUD App\CRUD App\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\dilum\source\repos\CRUD App\CRUD App\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\dilum\source\repos\CRUD App\CRUD App\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\dilum\source\repos\CRUD App\CRUD App\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\dilum\source\repos\CRUD App\CRUD App\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\dilum\source\repos\CRUD App\CRUD App\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\dilum\source\repos\CRUD App\CRUD App\obj\Debug\net6.0\staticwebassets\msbuild.CRUD App.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\dilum\source\repos\CRUD App\CRUD App\obj\Debug\net6.0\staticwebassets\msbuild.build.CRUD App.props
+C:\Users\dilum\source\repos\CRUD App\CRUD App\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CRUD App.props
+C:\Users\dilum\source\repos\CRUD App\CRUD App\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CRUD App.props
+C:\Users\dilum\source\repos\CRUD App\CRUD App\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\dilum\source\repos\CRUD App\CRUD App\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\dilum\source\repos\CRUD App\CRUD App\obj\Debug\net6.0\scopedcss\bundle\CRUD App.styles.css
+C:\Users\dilum\source\repos\CRUD App\CRUD App\obj\Debug\net6.0\scopedcss\projectbundle\CRUD App.bundle.scp.css
+C:\Users\dilum\source\repos\CRUD App\CRUD App\obj\Debug\net6.0\CRUD App.csproj.Up2Date
+C:\Users\dilum\source\repos\CRUD App\CRUD App\obj\Debug\net6.0\CRUD App.dll
+C:\Users\dilum\source\repos\CRUD App\CRUD App\obj\Debug\net6.0\refint\CRUD App.dll
+C:\Users\dilum\source\repos\CRUD App\CRUD App\obj\Debug\net6.0\CRUD App.pdb
+C:\Users\dilum\source\repos\CRUD App\CRUD App\obj\Debug\net6.0\CRUD App.genruntimeconfig.cache
+C:\Users\dilum\source\repos\CRUD App\CRUD App\obj\Debug\net6.0\ref\CRUD App.dll

@@ -1,0 +1,25 @@
+﻿@model List<CRUD_App.Models.Student>
+@{
+}
+
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">#</th>
+            <th scope="col">First</th>
+            <th scope="col">Last</th>
+            <th scope="col">Handle</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var students in Model)
+        {
+            <tr>
+                <th scope="row">@students.Id</th>
+                <td>@students.Name</td>
+                <td>@students.Description</td>
+                <td>@students.Grade</td>
+            </tr>
+        }
+    </tbody>
+</table>
